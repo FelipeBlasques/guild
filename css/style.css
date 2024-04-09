@@ -1,8 +1,6 @@
 body {
   font-family: 'Poppins', sans-serif;
-  color: #0c0c0c;
-  background: #693510 url("/images/background.jpg") no-repeat right top fixed;
-  overflow-x: hidden;
+  background: #693510;
 }
 
 .hero_area {
