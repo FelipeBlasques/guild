@@ -141,13 +141,13 @@ body {
   font-size: 18px;
 }
 
-.quest_section .box .detail-box .expert_position {
+.quest_section .box .detail-box .quest_requester {
   display: flex;
   justify-content: space-between;
   margin: 10px 0;
 }
 
-.quest_section .box .detail-box .expert_rating {
+.quest_section .box .detail-box .quest_difficulty {
   display: flex;
   margin-bottom: 15px;
 }
