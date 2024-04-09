@@ -1,6 +1,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   background: #693510;
+  background-image: url("/images/background.jpg");
 }
 
 .hero_area {
