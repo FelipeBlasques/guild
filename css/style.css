@@ -3,7 +3,7 @@ body {
   background: #693510;
   background-image: url("/images/background.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 
 .hero_area {
@@ -46,13 +46,12 @@ body {
   background-image: url(/images/Poster6.png);
   background-size: 100%;
   background-repeat: no-repeat;
-  height: 1400px;
+  height: 1090px;
+  
 }
 
 .quest_section .box .img-box img {
-  width: 100%;
-  position: relative;
-  text-align: center;
+  width: 100%;  
   color: white;
 }
 
@@ -60,12 +59,13 @@ body {
   width: 100%;
   color: #ffffff;
   padding: 25px 15px;
-  
+
 }
 
 .quest_section .box .detail-box a {
   color: inherit;
   font-size: 18px;
+
 }
 
 .quest_section .box .detail-box .quest_requester {
