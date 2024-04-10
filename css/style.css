@@ -43,19 +43,88 @@ img {
   color: #c78d2e;
 }
 
-.quest_section .box {
+.quest_section .box1 {
   display: flex;
   /* background-color: #4a1b07; */
   border-radius: 10px;
   overflow: hidden;
-  background-image: url(../images/Poster1.png);
+  background-image: url(../images/adventure1.png);
   background-size: contain;
   background-repeat: no-repeat;
   height: 45vh;
   width: 300px;
   text-align: center;
   justify-content: center;
-  
+}
+
+.quest_section .box2 {
+  display: flex;
+  /* background-color: #4a1b07; */
+  border-radius: 10px;
+  overflow: hidden;
+  background-image: url(../images/adventure2.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 45vh;
+  width: 300px;
+  text-align: center;
+  justify-content: center;
+}
+
+.quest_section .box3 {
+  display: flex;
+  /* background-color: #4a1b07; */
+  border-radius: 10px;
+  overflow: hidden;
+  background-image: url(../images/adventure3.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 45vh;
+  width: 300px;
+  text-align: center;
+  justify-content: center;
+}
+
+.quest_section .box4 {
+  display: flex;
+  /* background-color: #4a1b07; */
+  border-radius: 10px;
+  overflow: hidden;
+  background-image: url(../images/adventure4.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 45vh;
+  width: 300px;
+  text-align: center;
+  justify-content: center;
+}
+
+.quest_section .box5 {
+  display: flex;
+  /* background-color: #4a1b07; */
+  border-radius: 10px;
+  overflow: hidden;
+  background-image: url(../images/adventure5.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 45vh;
+  width: 300px;
+  text-align: center;
+  justify-content: center;
+}
+
+.quest_section .box6 {
+  display: flex;
+  /* background-color: #4a1b07; */
+  border-radius: 10px;
+  overflow: hidden;
+  background-image: url(../images/adventure6.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 45vh;
+  width: 300px;
+  text-align: center;
+  justify-content: center;
 }
 
 .quest_section .box .img-box img {
