@@ -127,6 +127,20 @@ img {
   justify-content: center;
 }
 
+.quest_section .box7 {
+  display: flex;
+  /* background-color: #4a1b07; */
+  border-radius: 10px;
+  overflow: hidden;
+  background-image: url(../images/adventure7.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 45vh;
+  width: 300px;
+  text-align: center;
+  justify-content: center;
+}
+
 .quest_section .box .img-box img {
   width: 100%;  
   color: white;
