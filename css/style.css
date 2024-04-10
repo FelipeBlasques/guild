@@ -26,10 +26,8 @@ img {
   padding: 0px 0;
 }
 
-.navbar-brand span {
-  font-size: 28px;
-  font-weight: bold;
-  color: #ffffff;
+.navbar-nav{
+  text-align: center;
 }
 
 .navbar-nav .nav-item .nav-link {
