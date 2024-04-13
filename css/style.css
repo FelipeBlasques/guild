@@ -26,14 +26,9 @@ img {
   padding: 0px 0;
 }
 
-.navbar-nav{
-  text-align: center;
-}
-
 .navbar-nav .nav-item .nav-link {
   padding: 10px 25px;
   color: #ffffff;
-  text-align: center;
   text-transform: uppercase;
 }
 
