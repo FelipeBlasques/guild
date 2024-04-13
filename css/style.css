@@ -38,7 +38,6 @@ img {
 
 .quest_section .box1 {
   display: flex;
-  /* background-color: #4a1b07; */
   border-radius: 10px;
   overflow: hidden;
   background-image: url(../images/adventure1.png);
@@ -174,4 +173,35 @@ img {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+/* CSS from Mercenaries */
+
+.row {
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: small;
+}
+
+.mercenary_section .list-group-item {
+  display: flex;
+  align-items: center; 
+  background-image: url("../images/background-list.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-color: transparent;
+
+}
+
+.mercenary_section .list-group-item img {
+  max-width: 100%;
+  height: auto;
+  border: 2px solid white;
+  border-radius: 5px; 
+}
+
+.mercenary_section .list-group-item p {
+  margin-bottom: 5px;
+  color: white; 
 }
