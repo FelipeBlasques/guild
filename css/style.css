@@ -180,8 +180,11 @@ img {
 .row {
   color: white;
   text-transform: uppercase;
-  text-align: center;
+  text-align: left;
   font-size: small;
+  margin-left: 5%;
+  margin-top: 5%;
+
 }
 
 .mercenary_section .list-group-item {
@@ -191,11 +194,11 @@ img {
   background-size: 100%;
   background-repeat: no-repeat;
   background-color: transparent;
-
+  margin-top: 10%;
 }
 
 .mercenary_section .list-group-item img {
-  max-width: 100%;
+  max-width: 120%;
   height: auto;
   border: 2px solid white;
   border-radius: 5px; 
